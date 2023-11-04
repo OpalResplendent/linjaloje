@@ -1,4 +1,6 @@
-# linja loje
+
+(tempicon.png)
+# linjaloje
 a small engine for small games
 
 ## Engine Goals
@@ -12,4 +14,4 @@ A secondary pillar is speed of production, both within the engine and of the eng
 To facilitate quick creation and prototyping, there will be a continued effort to improve the user experience and keep commonly used features accessible and remove any points of friction. The integrated tools will be opinionated for this purpose, while still allowing and integrating nicely with common industry tools that users may be prefer or simply be more familiar with.
 
 ## Technologies
-The engine uses GLFW for OpenGL context creation and management, some stb single-header libraries for image and font loading, and miniaudio for audio.
+The engine uses GLFW for OpenGL context creation and management, some stb single-header libraries for image and font loading, dear imgui for editor GUI, and miniaudio for audio.
