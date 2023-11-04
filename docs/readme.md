@@ -1,5 +1,5 @@
+<img align="left" width="128" height="128" src="tempicon.png">    
 
-(tempicon.png)
 # linjaloje
 a small engine for small games
 
