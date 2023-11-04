@@ -4,7 +4,7 @@
 a small engine for small games
 
 ## Engine Goals
-The goal of this project is to make something to build 2d walkaround style games that include some action mechanics. Directly: this is targeting the niche between RPG Maker and Game Maker that want a simple tilemap with 4-way walking, a moderately advanced dialog system with animation integration, basic inventory/menu GUI, and a framework for creating relatively simple real-time mechanics and/or microgames.  
+The goal of this project is to make something to build 2d walkaround style games that include some action mechanics. Directly: this is targeting the niche between RPG Maker and Game Maker that want a simple tilemap to walk a cahracter around, a moderately advanced dialog system and demo system, some basic inventory/menu GUI, and a framework for creating relatively simple real-time mechanics and/or microgames.  
 
 ### Simplicity
 The main pillar is currently simplicity. Out of the box, a new non-technical user should be able to grab the repo, compile successfully in vscode, and create a simple level with a character walking around and talking to NPCs with minimal friction.
